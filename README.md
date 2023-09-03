@@ -1,3 +1,6 @@
+<div>
+<img border="right" src="foto_hugo.png" width="100" height="50">
+</div>
 
 ### Hello, my name is Hugo but my family call me
 <div>
