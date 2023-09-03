@@ -4,15 +4,16 @@
 <img border="right" src="Logo chemio3.png" width="100" height="50">
 </div>
 
-- 🔭 I’m currently working at UNI doing a research project about the installation of a pilot plant hydrogen production.
+- 🔭 I’m currently working at UNI doing a research project us: Installation of a pilot plant hydrogen production; Obtaining biodiesel from microalgae oil; Biodegradable packaging by expanding cassava starch, etc.
 - 🎥 I have a [youtube channel](https://www.youtube.com/results?search_query=Hugo+Chirinos) (in spanish) about new technology, if you are interested SUBSCRIBE.
-- 📫 I currently have the CONCYTEC qualification as a level I researcher in [RENACyT](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=254)
+- 📫 I currently have the CONCYTEC qualification as a level IV researcher in [RENACyT](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=254)
 
   
 - ⚡  My Skills:
-   - carpentry
-   - pet trainer
-   - pot farming
+   - Carpentry work
+   - I grow ornamental plants
+   - Renewable energy us: Wind generators
+  
 
 ##
 
