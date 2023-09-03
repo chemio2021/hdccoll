@@ -1,5 +1,5 @@
 <div>
-<img border="right" src="foto Hugo.png" width="100" height="50">
+<img border="right" src="foto Hugo.png" width="300" height="150">
 </div>
 
 ### Hello, my name is Hugo but my family call me
